@@ -1,2 +1,3 @@
 # data-collection
-Repo For Storing IPs, Server Config Files For the Game called BOMBSQUAD
+
+Repo For Storing IPs, Server Config Files According to their respective IPs
